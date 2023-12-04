@@ -200,3 +200,8 @@ You see output like this if successful
 ![](./deployment_success.png)
 
 Don't forget to save your work!
+
+
+![Mint](aleo_mint.png)
+
+![Transfer](aleo_transfer.png)
